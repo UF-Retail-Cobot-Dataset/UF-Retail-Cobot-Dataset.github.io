@@ -10,14 +10,17 @@ Images on the left column show the mapping of human and robot positions at diffe
 
 ## Data
 
-### 1. Robot Sensor Data 
+### 1. Participant Data Sheet
+[The data is available here](https://drive.google.com/drive/folders/1MxfFcM2HyELjD30PSB8-rugwxGerSGs0?usp=sharing)
+
+Data sheets for 8 participants are avaiable in the dataset. Each data sheet contains information including the participant's age, gender, height (with shoes, cm), weight (kg), as well as the task condition and duration of each trial.
+
+### 2. Robot Sensor Data 
 [The data is available here](https://drive.google.com/drive/folders/1VCCNtc3Q2Ze17ZGqW6EL3zLpvpnGsVo4?usp=sharing)
 
 A totla of 56 (40 order picking and sorting + 16 inventory checking) bag files are available in the dataset. All sensor data from the robot, including images from camera, point clouds from Lidar, measurements of acceleration and angular rate from IMU, and joint states from wheel encoders,  were recorded as the serialized ROS message data in the rosbag format. Note that, in order to perform online recordings, the images were recorded as 640 by 480p, which is sufficient to show the information from the first-person robot view.
 
-
-
-
+---
 
 You can use the [editor on GitHub](https://github.com/UF-Retail-Cobot-Dataset/UF-Retail-Cobot-Dataset.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
