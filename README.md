@@ -8,7 +8,8 @@ Images on the left column show the mapping of human and robot positions at diffe
 
 ## Data
 
-### [Robot Sensor Data] (https://drive.google.com/drive/folders/1VCCNtc3Q2Ze17ZGqW6EL3zLpvpnGsVo4?usp=sharing)
+### Robot Sensor Data 
+[Link](https://drive.google.com/drive/folders/1VCCNtc3Q2Ze17ZGqW6EL3zLpvpnGsVo4?usp=sharing)
 A totla of 56 (40 order picking and sorting + 16 inventory checking) bag files are available in the dataset. All sensor data from the robot, including images from camera, point clouds from Lidar, measurements of acceleration and angular rate from IMU, and joint states from wheel encoders,  were recorded as the serialized ROS message data in the rosbag format. Note that, in order to perform online recordings, the images were recorded as 640 by 480p, which is sufficient to show the information from the first-person robot view.
 
 
