@@ -6,6 +6,8 @@ The dataset was recorded in a future-orientated Wholesale and Retail Trade envir
 ![image](img/Tra_eye_pose2.png)
 Images on the left column show the mapping of human and robot positions at different time frames in the trial. In the middle are the screenshots from the eye tracker at the corresponding frames. On the right column are the figures of the 3D human model created with Xsens MOCAP data. Frame A represents the participant’s first glance at the robot. Frame B represents the moment when the participant and the robot begin to avoid each other. Frame C shows the participant following the avoidance interaction, looking for an item on the shelf.
 
+---
+
 ## Data
 
 ### Robot Sensor Data 
