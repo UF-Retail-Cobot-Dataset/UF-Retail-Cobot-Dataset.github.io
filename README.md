@@ -4,6 +4,16 @@ You can use the [editor on GitHub](https://github.com/UF-Retail-Cobot-Dataset/UF
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Citation
+
+When using this dataset please cite the following paper in your work
+
+```markdown
+Currently unavailable
+```
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
