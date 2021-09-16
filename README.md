@@ -1,7 +1,9 @@
 # UF Retail Co-bot Dataset
 
 ## Overview
-The dataset was recorded in a future-orientated Wholesale and Retail Trade environment, where the robot is deployed to work alongside the human worker in close proximity. To simulate real-world scenarios, eight participants were tasked with order picking and sorting, as well as inventory checking. Data from robot sensors, human motion capture, and eye gaze measurements were recorded for more than 260 minutes. Each category of data stream was described in detail. It is our hope that the present dataset will enrich the open-source resources and promote not only studies on human reactions and behavior toward the co-bot, but also the research on safe robot control strategies and advanced Machine Learning models.
+The dataset was recorded in a future-orientated Wholesale and Retail Trade environment, where the robot was deployed to work alongside the human worker in close proximity. To simulate real-world scenarios, eight participants were tasked with order picking and sorting, as well as inventory checking. More than 260 minutes of data were collected via robot sensors, human motion capture, and eye gaze measurements. The following is an example figure depicting the integration of robot and human positions, human 3D posture, and eye tracking data from a sample trial. It is our hope that the present dataset will enrich the open-source resources and promote not only studies on human reactions and behavior toward the co-bot, but also the research on safe robot control strategies and advanced Machine Learning models.
+
+![image](img/Example)
 
 
 
