@@ -25,11 +25,12 @@ A totla of 56 (40 order picking and sorting + 16 inventory checking) bag files a
 
 A total of 112 excel files are available in the motion capture data folder. Four trials were found to have poor data quality (i.e., off-axis), and the corresponding files were labeled as “offaxis”. The human motion data from Xsens contains over 930 thousand frames of full-body human posture information. The following human motions were observed frequently during the experiment: 1) picking up and putting down the item list, 2) pushing and pulling the shopping cart, 3) browsing through the shelf, 4) bending over and crouching, 5) picking up items from the shelf, 6) putting items into the bin, 7) writing on the checklist, 8) walking between shelves, 9) counting items, and 10) avoiding robot if necessary. Inside each participant folder, trial files contain the timestamp information and position data of 23 joints, including pelvis, L5, L3, T12, T8, neck, head, right and left shoulder, right and left upper arm,  right and left forearm, right and left hand, right and left upper leg, right and left lower leg, right and left foot, right and left toe.
 
+### 4. Eye-tracking Data
+[The data is available here](https://drive.google.com/drive/folders/1XMwLd4W3uMEcmzE32H_nVReS8xUo2pCZ?usp=sharing)
+
+Eye-tracking data, such as gaze directions and eye movements, were saved in 112 excel files (8 participants x 14 trials). The collected data were exported with timestamp so that it can be further analyzed along with other measurements. In addition, a total of 112 videos (.MP4) recorded by the embedded scene camera are also available in the current dataset. 
+
 ---
-
-You can use the [editor on GitHub](https://github.com/UF-Retail-Cobot-Dataset/UF-Retail-Cobot-Dataset.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Citation
 
@@ -39,36 +40,3 @@ When using this dataset please cite the following paper in your work
 Currently unavailable
 ```
 
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UF-Retail-Cobot-Dataset/UF-Retail-Cobot-Dataset.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
