@@ -11,22 +11,22 @@ Images on the left column show the mapping of human and robot positions at diffe
 ## Data
 
 ### 1. Participant Data Sheet
-[The data is available here](https://www.scidb.cn/en/detail?dataSetId=3911b440a85646b8842204650cb15804)
+[The data is available here](https://doi.org/10.11922/sciencedb.01351)
 
 Data sheets for 8 participants are available in the dataset. Each data sheet contains information including the participant's age, gender, height (with shoes, cm), weight (kg), as well as the task condition and duration of each trial. Note that, in order to ensure that no physical collision would happen during the trials, the researcher assumed control of the robot when necessary. These instances were marked as “intervened” in the data sheets. 
 
 ### 2. Robot Sensor Data 
-[The data is available here](https://www.scidb.cn/en/detail?dataSetId=3911b440a85646b8842204650cb15804)
+[The data is available here](https://doi.org/10.11922/sciencedb.01351)
 
 A total of 56 (40 order picking and sorting + 16 inventory checking) bag files are available in the dataset. All sensor data from the robot, including images from camera, point clouds from Lidar, measurements of acceleration and angular rate from IMU, and joint states from wheel encoders,  were recorded as the serialized ROS message data in the rosbag format. Note that, in order to perform online recordings, the images were recorded as 640 by 480p, which is sufficient to show the information from the first-person robot view.
 
 ### 3. Human Motion Capture Data
-[The data is available here](https://www.scidb.cn/en/detail?dataSetId=3911b440a85646b8842204650cb15804)
+[The data is available here](https://doi.org/10.11922/sciencedb.01351)
 
 A total of 112 excel files are available in the motion capture data folder. Four trials were found to have poor data quality (i.e., off-axis), and the corresponding files were labeled as “offaxis”. The human motion data from Xsens contains over 930 thousand frames of full-body human posture information. The following human motions were observed frequently during the experiment: 1) picking up and putting down the item list, 2) pushing and pulling the shopping cart, 3) browsing through the shelf, 4) bending over and crouching, 5) picking up items from the shelf, 6) putting items into the bin, 7) writing on the checklist, 8) walking between shelves, 9) counting items, and 10) avoiding robot if necessary. Inside each participant folder, trial files contain the timestamp information and position data of 23 joints, including pelvis, L5, L3, T12, T8, neck, head, right and left shoulder, right and left upper arm,  right and left forearm, right and left hand, right and left upper leg, right and left lower leg, right and left foot, right and left toe.
 
 ### 4. Eye-tracking Data
-[The data is available here](https://www.scidb.cn/en/detail?dataSetId=3911b440a85646b8842204650cb15804)
+[The data is available here](https://doi.org/10.11922/sciencedb.01351)
 
 Eye-tracking data, such as gaze directions and eye movements, were saved in 112 excel files (8 participants x 14 trials). The collected data were exported with timestamp so that it can be further analyzed along with other measurements. In addition, a total of 112 videos (.MP4) recorded by the embedded scene camera are also available in the current dataset. 
 
