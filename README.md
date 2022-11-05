@@ -37,6 +37,6 @@ Eye-tracking data, such as gaze directions and eye movements, were saved in 112 
 When using this dataset please cite the following paper in your work
 
 ```markdown
-Currently unavailable
+Chen, Y., Luo, Y., Yang, C. et al. Human mobile robot interaction in the retail environment. Sci Data 9, 673 (2022). https://doi.org/10.1038/s41597-022-01802-8
 ```
 
